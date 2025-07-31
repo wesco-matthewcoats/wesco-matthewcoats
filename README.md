@@ -4,8 +4,8 @@
 
 With 16+ years experience in the industry, I have created first class UI and UX designs for mobile, tablet and desktop platforms, while also serving as a frontend developer building web based applications with HTML, CSS, and JavaScript. I have enjoyed working on digital products in a wide range of industries including travel/tourism and distribution/electrical/utility clients. I collaborate with remote and on-site teams to create, enhance, and evolve both customer facing applications and internal applications.
 
-- 🔭 Working on: IBA, Power Solutions, CREST, MWM, and SX.e
-- 🌍 Languages: English, German, HTML, CSS, JavaScript, jQuery, .NET, Java, Coldfusion
+- 🔭 Working on: PIRM, Power Solutions, CREST, MWM, and SX.e
+- 🌍 Languages: English (Primary), German, Spanish (Some), French (Some)
 
 ## My Skills 🧠
 
